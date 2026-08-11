@@ -1,0 +1,9 @@
+streamlit>=1.36.0
+langchain>=0.2.0
+langchain-text-splitters>=0.2.0
+sentence-transformers>=3.0.0
+chromadb>=0.5.0
+GitPython>=3.1.43
+openai>=1.35.0
+python-dotenv>=1.0.1
+requests>=2.32.0
